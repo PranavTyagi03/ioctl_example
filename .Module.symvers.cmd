@@ -1,0 +1,1 @@
+savedcmd_/home/pranavt/Desktop/Programming/ioctl_example/Module.symvers :=  scripts/mod/modpost -M  -a    -N  -o /home/pranavt/Desktop/Programming/ioctl_example/Module.symvers -n -T /home/pranavt/Desktop/Programming/ioctl_example/modules.order -i Module.symvers -e 

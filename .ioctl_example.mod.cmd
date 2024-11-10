@@ -1,0 +1,1 @@
+savedcmd_/home/pranavt/Desktop/Programming/ioctl_example/ioctl_example.mod := printf '%s\n'   ioctl_example.o | awk '!x[$$0]++ { print("/home/pranavt/Desktop/Programming/ioctl_example/"$$0) }' > /home/pranavt/Desktop/Programming/ioctl_example/ioctl_example.mod
